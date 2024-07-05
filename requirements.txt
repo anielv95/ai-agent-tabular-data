@@ -16,5 +16,7 @@ langchain-community
 langchain-experimental
 langchain-fireworks
 langchain_openai
+langchainhub
+
 tabulate
 wikipedia
